@@ -1,7 +1,7 @@
 # MPFT16-2019
 collection of exercises though the full time prep course before core
 ## Five week bootcamp intro to frontend tech
-# {MY First webpage}
+# MY First webpage
 #### {A basic HTML website}, {06 Feb 2019}
 #### By **{Nick, Waweru, David}**
 ## Description
