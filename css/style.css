@@ -8,8 +8,16 @@ h2 {
   text-align: center;
 }
 p {
-  font-family: sans-serif;
+  font-family: "latoWeb";
+  line-height: 5
 }
 ul {
   line-height: 40px;
+}
+#jumbo{
+  float:right;
+  height:20em;
+}
+body {
+    background-color: rgba(151, 99, 107, 0.76);
 }
